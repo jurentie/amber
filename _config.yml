@@ -15,14 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: mmistakes/so-simple-theme
 local: en-US
-title: CodeOdyssey
+title: Welcome Amber!
 email: jurentie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My name is Justin and this is my personal blog, documenting my journey
-  on the quest to become the best software developer I can be.
+  Hi Amber! This is a page dedicated just for you. :) 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/images/code-logo.svg"
+logo: "/images/prof-pic.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
@@ -45,30 +44,18 @@ plugins:
 author:
   name: Justin Rentie
   picture: /images/justin_rentie_small.png
-  email:
-  twitter: jurentie
-  links:
-    - title: Twitter
-      url: https://twitter.com/JustinRentie
-      icon: fab fa-twitter-square
-    - title: GitHub
-      url: https://github.com/jurentie
-      icon: fab fa-github-square
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/jurentie
-      icon: fab fa-linkedin
 
 # Footer Links
 footer_links:
-  - title: Twitter
-    url: https://twitter.com/JustinRentie
-    icon: fab fa-twitter-square
-  - title: GitHub
-    url: https://github.com/jurentie
-    icon: fab fa-github-square
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/jurentie
-    icon: fab fa-linkedin
+  - title: Medium
+    url: https://medium.com
+    icon: fab fa-medium
+  - title: TED - Ideas Worth Sharing
+    url: https://www.ted.com
+    icon: fas fa-lightbulb
+  - title: Resources
+    url: /resources
+    icon: fa fa-link
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
