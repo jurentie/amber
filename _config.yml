@@ -45,18 +45,6 @@ author:
   name: Justin Rentie
   picture: /images/justin_rentie_small.png
 
-# Footer Links
-footer_links:
-  - title: Medium
-    url: https://medium.com
-    icon: fab fa-medium
-  - title: TED - Ideas Worth Sharing
-    url: https://www.ted.com
-    icon: fas fa-lightbulb
-  - title: Resources
-    url: /resources
-    icon: fa fa-link
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
