@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "TED Talks"
+date:   2018-08-30 10:11:18 -0600
+categories: TED
+---
+
+One of the easiest things I can do for myself when I am feeling the need for motivation is to get on [TED.com](https://www.ted.com). This is often how I like to start my day.
+
+TED stands for Technology, Entertainment, and Design. TED covers a *wide* range of topics, however. If you're feeling like you need inspiration, search "inspirational". Need to get motivated? Search "motivation". Or just browse the various TED talks, uploaded consistently, for something to learn.
+
+The best part of TED is getting some solid life advice, or learning something new, without *having* to read anything. You can just sit there, sip your morning coffee, and absorb the information. 
+
+![center-aligned-image]({{ '/images/ted-logo.png' | absolute_url }}){: .align-center}
+
+## How I Made Friends with Reality ##
+I recently just watched this TED Talk. I love this crazy old lady, and she has some very wise words about appreciating what is in front of you and accepting the reality of death. While I don't think either of us is anywhere close to having to face the realities of death, the things she says about life is what makes this TED Talk worth watching. I guess you could say that this is a good lesson in **gratitude**. Instead of being sad of death, be grateful to be alive.
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/emily_levine_how_i_made_friends_with_reality" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+&nbsp; &nbsp;
+
+## There's More to Life than Being Happy ##
+This next talk sounds pessemistic, but honestly it's one of the better talks I've seen. I've been out in the dating world again, and that's led to a lot of stand ups, a lot of bad dates, and a good date... that still ended with no relationship. I felt like I needed a little pick me up after all that's been going on. Also, why do I need a boy to make me happy? So this talk helps as a guide of not only how to live a happy life (single or not), but how to live a *meaningful* life.
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+&nbsp; &nbsp;
+
+## Addiction Playlist ##
+Okay, so this is clearly a touchy subject, but I think this playlist of three TED Talks might be worth checking out. I think that "addict" carries such a stigmatized connotation, and that's bullshit. 
+
+The truth is, our family struggles with a number of mental health related issues, and I could easily see addiction playing a role in that. Grandma is addicted to coffee, Mom is addicted to alcohol, and honestly I have had to work really hard throughout college to prevent myself from becoming addicted to a number of things. And did we not learn that our grandparents were once addicted to acid!?!?! What the fuck?
+
+So many people fear from being labeled and addict that they often avoid recognizing the issue, and then they will never get better. I'm not saying you are an addict, but if you think you could be or you think you might be heading down that road, don't shy away from facing your demons head on. Don't be like Mom or Grandma and deny the issue, and if you need some information to help you process. Here are these three TED Talks on addiction.
+
+You'll find these talks are from educated people without the bias and stigmatization so it will help you understand in a much clearer way 😏
+
+I hope it's okay that I plan on sharing more resources for addicts. Again, not calling you and addict, just think this information could be relevant regardless.
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+&nbsp; &nbsp;
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/michael_botticelli_addiction_is_a_disease_we_should_treat_it_like_one" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
+
+&nbsp; &nbsp;
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/ethan_nadelmann_why_we_need_to_end_the_war_on_drugs" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
