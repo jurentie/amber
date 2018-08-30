@@ -12,6 +12,8 @@ permalink: /resources/
 ## [Medium](https://www.medium.com) ##
 * [The Cognitive Benefits of Gratitude](https://medium.com/the-mission/the-cognitive-benefits-of-gratitude-967dfb6d5adf)
 * [How a Series of Initiatives to Train Gratitude Changed My Life](https://medium.com/@kevinslavelle/how-a-series-of-initiatives-to-train-gratitude-changed-my-life-in-2017-ead1156963ba)
+* * [My name is Wil Wheaton. I Live With Chronic Depression and Generalized Anxiety. I Am Not Ashamed.](https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1)
+* [10 Things I Had to Give Up to Heal My Anxiety](https://medium.com/personal-growth/10-things-i-had-to-give-up-to-heal-my-anxiety-ff5faf0227ff)
 
 ## [TED Talks](https://www.ted.com) ##
 * [How I Made Friends with Reality](https://www.ted.com/talks/emily_levine_how_i_made_friends_with_reality)
