@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Medium"
+date:   2018-08-30 12:11:18 -0600
+categories: Medium
+---
+
+No we aren't talking about psychics. *Cue That's So Raven* 😉
+
+![center-aligned-image]({{ '/images/raven.gif' | absolute_url }}){: .align-center}
+
+I've recently just discovered a **GOLD MINE** of useful articles and resources on the internet, on a brilliant little site called [Medium](https://www.medium.com). It is a completely open source media platform where anybody can read and write meaningful articles and content, if you are a member. Without membership you can only read, but there is *plenty* of free stories to access.
+
+[![center-aligned-image]({{ '/images/medium.png' | absolute_url }}){: .align-center}](https://www.medium.com)
+
+It can be kind of hard to search through all the content but that's why I am here to compile some of my favorite articles. It can be kind of hard to search through all the content but that's why I am here to compile some of my favorite articles.
+
+I've already linked to two articles on practicing gratitude:
+* [The Cognitive Benefits of Gratitude](https://medium.com/the-mission/the-cognitive-benefits-of-gratitude-967dfb6d5adf)
+* [How a Series of Initiatives to Train Gratitude Changed My Life](https://medium.com/@kevinslavelle/how-a-series-of-initiatives-to-train-gratitude-changed-my-life-in-2017-ead1156963ba)
+
+I want to make it clear that I don't think you are depressed, but it does sound like you have suffered from anxiety. Typically these things go hand in hand and finding good content about one usually leads to finding good content about the other. For me, articles on depression are a constant source of reading material. Here are some articles on depression and anxiety:
+* [My name is Wil Wheaton. I Live With Chronic Depression and Generalized Anxiety. I Am Not Ashamed.](https://medium.com/@wilw/my-name-is-wil-wheaton-i-live-with-chronic-depression-and-generalized-anxiety-i-am-not-ashamed-8f693f9c0af1)
+* [10 Things I Had to Give Up to Heal My Anxiety](https://medium.com/personal-growth/10-things-i-had-to-give-up-to-heal-my-anxiety-ff5faf0227ff): I don't agree with everything said in the article, but it has a lot of good information.
+
+These are all the articles I've managed to read through and put together this week, but I will add more here if I find anything worth sharing. 
+
+But seriously, go checkout this website and maybe you can find some cool articles yourself, and maybe you can share some with me.

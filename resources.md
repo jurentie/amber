@@ -4,6 +4,11 @@ title: Resources
 permalink: /resources/
 ---
 
+## Resources for Rehabilitation ##
+* [Elite Rehab Placement](https://www.eliterehabplacement.com/)
+* [Rites of Passage](http://www.ritesofpassage.co)
+* [Best Rehab Centers in Colorado](https://www.drugrehab.com/2017/11/15/best-rehab-centers-in-colorado/)
+
 ## [Medium](https://www.medium.com) ##
 * [The Cognitive Benefits of Gratitude](https://medium.com/the-mission/the-cognitive-benefits-of-gratitude-967dfb6d5adf)
 * [How a Series of Initiatives to Train Gratitude Changed My Life](https://medium.com/@kevinslavelle/how-a-series-of-initiatives-to-train-gratitude-changed-my-life-in-2017-ead1156963ba)

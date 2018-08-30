@@ -11,7 +11,9 @@ TED stands for Technology, Entertainment, and Design. TED covers a *wide* range 
 
 The best part of TED is getting some solid life advice, or learning something new, without *having* to read anything. You can just sit there, sip your morning coffee, and absorb the information. 
 
-![center-aligned-image]({{ '/images/ted-logo.png' | absolute_url }}){: .align-center}
+[![center-aligned-image]({{ '/images/ted-logo.png' | absolute_url }}){: .align-center}](https://www.ted.com)
+
+*If you happen to be on mobile, you can download the TED app and open any of the videos below externally in the app itself. Or just watch through the browser, though I was experiencing some glitches on my android when trying to watch the videos through mobile on this page.*
 
 ## How I Made Friends with Reality ##
 I recently just watched this TED Talk. I love this crazy old lady, and she has some very wise words about appreciating what is in front of you and accepting the reality of death. While I don't think either of us is anywhere close to having to face the realities of death, the things she says about life is what makes this TED Talk worth watching. I guess you could say that this is a good lesson in **gratitude**. Instead of being sad of death, be grateful to be alive.
@@ -32,7 +34,7 @@ Okay, so this is clearly a touchy subject, but I think this playlist of three TE
 
 The truth is, our family struggles with a number of mental health related issues, and I could easily see addiction playing a role in that. Grandma is addicted to coffee, Mom is addicted to alcohol, and honestly I have had to work really hard throughout college to prevent myself from becoming addicted to a number of things. And did we not learn that our grandparents were once addicted to acid!?!?! What the fuck?
 
-So many people fear from being labeled and addict that they often avoid recognizing the issue, and then they will never get better. I'm not saying you are an addict, but if you think you could be or you think you might be heading down that road, don't shy away from facing your demons head on. Don't be like Mom or Grandma and deny the issue, and if you need some information to help you process. Here are these three TED Talks on addiction.
+So many people fear from being labeled an addict that they often avoid recognizing the issue, and then they will never get better. I'm not saying you are an addict, but if you think you could be or you think you might be heading down that road, don't shy away from facing your demons head on. Don't be like Mom or Grandma and deny the issue, and if you need some information to help you process. Here are these three TED Talks on addiction.
 
 You'll find these talks are from educated people without the bias and stigmatization so it will help you understand in a much clearer way 😏
 
