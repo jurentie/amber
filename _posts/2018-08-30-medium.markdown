@@ -13,8 +13,7 @@ I've recently just discovered a **GOLD MINE** of useful articles and resources o
 
 [![center-aligned-image]({{ '/images/medium.png' | absolute_url }}){: .align-center}](https://www.medium.com)
 
-It can be kind of hard to search through all the content but that's why I am here to compile some of my favorite articles. It can be kind of hard to search through all the content but that's why I am here to compile some of my favorite articles.
-
+It can be kind of hard to search through all the content but that's why I am here to compile some of my favorite articles.
 I've already linked to two articles on practicing gratitude:
 * [The Cognitive Benefits of Gratitude](https://medium.com/the-mission/the-cognitive-benefits-of-gratitude-967dfb6d5adf)
 * [How a Series of Initiatives to Train Gratitude Changed My Life](https://medium.com/@kevinslavelle/how-a-series-of-initiatives-to-train-gratitude-changed-my-life-in-2017-ead1156963ba)
